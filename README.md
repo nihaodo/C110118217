@@ -5,17 +5,21 @@
 ----
 ![NKUST](logo.png "高科大")
 
-- [ ] check list
+---
+## check list
 - [X] 1st thing
 - [ ] 2nd thing
 - [ ] 3rd thing
 - [ ] 4th thing
 
+---
+## Python code
 ```python
 s = "python highlighted syntex "
 print(s)
 ```
-
+---
+## javascript code
 ```js
 var s = "JavaScript highlist"
 alert (s);
