@@ -84,7 +84,7 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |    1     |    2     |      3 |
 |    4     |    5     |      6 |
 
-![NKUST](newhead.png "NKUST IM")
+
 
 | Markdown |   Less   |     Pretty |
 |:--------|:--------:| ----------:|
