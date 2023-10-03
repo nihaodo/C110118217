@@ -4,7 +4,7 @@
 ```mermaid
 gantt
     title 專案管理
-    研擬計畫      :a1, 2222-01-01, 1d
+    研擬計畫      :a1, 2023-01-01, 1d
     任務分配      :a2, after a1, 4d
     取得硬體      :a3, after a1, 17d
     程式開發      :a4, after a2, 70d
