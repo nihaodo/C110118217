@@ -1,7 +1,6 @@
 # 專案管理
 
 ## 甘特圖
-## 甘特圖
 ```mermaid
 gantt
     title 甘特圖
